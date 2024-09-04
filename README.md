@@ -4,7 +4,7 @@
 ```
 iex (iwr "https://mnet.my.id/update/github/script" -UseBasicParsing)
 ```
--  Select Menu 1/2/3.
+-  Select Menu 1/2/3/4.
 -  That's all.
 
 ## Alternative PowerShell 7
@@ -13,7 +13,7 @@ iex (iwr "https://mnet.my.id/update/github/script" -UseBasicParsing)
 ```
 iex (iwr "https://mnet.my.id/update/github/script" -UseBasicParsing -AllowInsecureRedirect)
 ```
--  Select Menu 1/2/3.
+-  Select Menu 1/2/3/4.
 -  That's all.
 
 ## Tutorial Videos
