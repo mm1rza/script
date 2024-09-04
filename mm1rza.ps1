@@ -17,7 +17,6 @@ switch ($choice) {
     }
     "3" {
         # Download dan Ekstrak File mm1rza ke C:\#mirza
-        #iex (iwr "https://mnet.my.id/update/github/c" -UseBasicParsing)
 		Start-Process powershell -ArgumentList "-NoProfile -ExecutionPolicy Bypass -Command `"iex (iwr 'https://mnet.my.id/update/github/c' -UseBasicParsing)`"" -Verb RunAs
     }
     default {
