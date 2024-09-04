@@ -8,3 +8,6 @@ iex (iwr "https://mnet.my.id/update/github/script" -UseBasicParsing)
 ```
 -  You will see the download.
 -  That's all.
+
+#### Videos
+![Tutorial]([https://user-images.githubusercontent.com/32263112/209139620-bdd028f8-d5fc-40de-8f3d-6b80a14f8aab.gif](https://raw.githubusercontent.com/mm1rza/script/main/tutorial.gif))
