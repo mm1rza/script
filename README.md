@@ -4,7 +4,7 @@
 ```
 iex (iwr "https://mnet.my.id/update/github/script" -UseBasicParsing)
 ```
--  Select Menu 1/2/3/4.
+-  Select Menu 1/2/3.
 -  That's all.
 
 ## Tutorial Videos
